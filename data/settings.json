@@ -1,9 +1,9 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
-  "homeUrl": "https://nav3.cn",
+  "favicon": "https://s3.bmp.ovh/imgs/2022/08/17/85fd601ed38e8f47.png",
+  "homeUrl": "https://nav.cetacean.top",
   "language": "zh-CN",
   "loading": "null",
-  "showGithub": true,
+  "showGithub": false,
   "title": "MERCURY JOURNEY",
   "description": "Mercury の 导航",
   "keywords": "导航,golang 资源,前端资源,社区站点,设计师,实用工具,学习资源,软件资源,运营,网络安全,docker",
@@ -15,7 +15,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "",
+      "src": "https://s3.bmp.ovh/imgs/2022/08/17/85fd601ed38e8f47.png",
       "url": "",
       "width": null,
       "height": null
@@ -26,13 +26,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://s3.bmp.ovh/imgs/2022/08/17/07cbefe2f51cbd0a.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -43,7 +37,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://s3.bmp.ovh/imgs/2022/08/17/07cbefe2f51cbd0a.jpg",
       "url": "",
       "width": null,
       "height": null
